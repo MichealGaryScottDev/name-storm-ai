@@ -1,0 +1,16 @@
+{
+  "title": "Name Storm",
+  "tagline": "Fresh product names without the junk",
+  "description": "Describe your product's vibe and get memorable name candidates with clear rationale. Skip the taken domains and generic fluff—find names that actually sound like brands.",
+  "logoMarkDescription": "A bold lightning bolt striking through creative sparks, symbolizing the instant energy of a perfect name hitting you.",
+  "palette": {
+    "bg": "#fafafa",
+    "fg": "#18181b",
+    "accent": "#db2777",
+    "muted": "#71717a"
+  },
+  "fonts": {
+    "display": "Inter",
+    "body": "Inter"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "name-storm-ai",
+  "title": "Name Storm",
+  "tagline": "Brainstorm product names that aren’t taken-sounding junk.",
+  "description": "Describe the vibe/niche and get name candidates with quick rationale lines.",
+  "niche": "Founders",
+  "pages": [
+    "/",
+    "/about"
+  ],
+  "visualDirection": "Clean brainstorm canvas with floating name cards that feel like sticky notes on a designer's wall. Inter typography with generous whitespace, subtle shadows on cards, and a gentle gradient background that evokes creative energy without distraction.",
+  "colorPalette": {
+    "bg": "#fafafa",
+    "fg": "#18181b",
+    "accent": "#db2777",
+    "muted": "#71717a"
+  },
+  "fontPairing": {
+    "display": "Inter",
+    "body": "Inter"
+  },
+  "features": [
+    "Brief",
+    "AI names",
+    "Shortlist",
+    "Domain-guess notes (non-checking)"
+  ],
+  "scopeNotes": "No WHOIS—just ideas.",
+  "usesAi": true,
+  "catalogId": 58
+}
