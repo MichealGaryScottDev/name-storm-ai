@@ -1,0 +1,28 @@
+# Product listing — Name Storm
+
+## What's your product called?
+Name Storm
+
+## Give it a one line pitch
+Fresh product names without the junk
+
+## Where can people try it?
+https://name-storm-1u7cn2srn-autodev2.vercel.app
+
+## What makes it special?
+Name Storm cuts through the noise of typical name generators by focusing on brand-worthy suggestions with clear reasoning behind each choice. Instead of bombarding you with hundreds of random combinations, it provides curated candidates that match your product's vibe along with domain availability hints. The tool skips the generic suffixes and tired patterns that plague most naming tools, delivering names that actually sound like they belong on a product.
+
+## Logo
+`listing/logo.svg`
+
+## Screenshots
+- `listing\screenshots\01-home.png`
+- `listing\screenshots\02-about.png`
+
+## Select 3 categories that fit the product
+- Artificial Intelligence
+- Productivity
+- Marketing Tools
+
+## Write your first comment
+Hey Product Hunt! I built Name Storm after getting frustrated with existing naming tools that either gave me nonsense combinations or just slapped '-ly' and '-ify' on every word. I wanted something that understood the vibe I was going for and explained why each suggestion made sense. Would love to hear what names you generate and whether the rationale helps you make decisions. What's been your biggest struggle with naming projects?
